@@ -63,3 +63,7 @@ logs/
 *.tmp
 *.pem
 *.key
+
+# Large dataset files (exceed GitHub 100MB limit)
+backend/data/datasets/opsd/renewable_power_plants_EU.csv
+backend/data/datasets/opsd/time_series_60min.csv

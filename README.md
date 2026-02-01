@@ -116,7 +116,7 @@ An advanced Retrieval-Augmented Generation (RAG) system designed for enterprise 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Global-Capstone-Project-Company-Edition.git
+git clone https://github.com/Harishik/Global-Capstone-Project-Company-Edition.git
 cd Global-Capstone-Project-Company-Edition
 ```
 
@@ -360,8 +360,8 @@ curl -X POST http://localhost:8000/query \
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/YOUR_USERNAME">
-        <b>Your Name</b>
+      <a href="https://github.com/Harishik">
+        <b>Harishik</b>
       </a>
       <br />
       <sub>Project Lead</sub>
@@ -399,7 +399,7 @@ We welcome contributions! Please follow these steps:
 ## 📞 Support
 
 For questions or issues:
-- Open a [GitHub Issue](https://github.com/YOUR_USERNAME/Global-Capstone-Project-Company-Edition/issues)
+- Open a [GitHub Issue](https://github.com/Harishik/Global-Capstone-Project-Company-Edition/issues)
 - Check existing documentation in `/docs`
 
 ---
