@@ -1,0 +1,1 @@
+{"inputs":{"lat":"40","lon":"-105"},"errors":[],"warnings":[],"version":"3.2.0","metadata":{"sources":["Ventyx Research (2012)"]},"outputs":{"company_id":"19499","utility_name":"United Power Inc","utility_info":[{"company_id":"19499","utility_name":"United Power Inc"}],"commercial":0.1035,"industrial":0.0855,"residential":0.12}}

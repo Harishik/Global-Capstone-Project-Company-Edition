@@ -1,0 +1,97 @@
+
+Hybrid Power Plant Data (English and Korean)
+혼합된 발전소 데이터 (영어와 한국어)
+
+This file contains sensitive and non-sensitive information about power plants.
+이 파일은 발전소의 민감한 정보와 비민감한 정보를 포함하고 있습니다.
+
+Record 1 / 기록 1
+Plant Name / 발전소 이름: Redwood Power Plant (레드우드 발전소)
+Fuel Type / 연료 종류: Coal (석탄)
+Generation Capacity (MW) / 발전 용량: 500 MW (500 메가와트)
+Country / 국가: Republic of Korea (대한민국)
+Owner / 소유자: Redwood Energy Corp (레드우드 에너지 회사)
+Latitude / 위도: 36.3504
+Longitude / 경도: 127.3845
+Data Source URL / 데이터 소스 URL: https://example.com/redwood
+Source Year / 데이터 연도: 2025
+Annual Generation (GWh) / 연간 발전량: 3500 GWh (3500 기가와트시)
+Employee Name / 직원 이름: John Doe (존 도)
+Employee ID / 직원 ID: E001
+Email / 이메일: jdoe@redwoodpower.com
+Phone / 전화번호: 555-123-4567
+SSN / 식별번호: 123-45-6789
+Salary / 연봉: 95000 USD (95,000 달러)
+
+Record 2 / 기록 2
+Plant Name / 발전소 이름: Riverbend Generating Station (리버밴드 발전소)
+Fuel Type / 연료 종류: Natural Gas (천연가스)
+Generation Capacity (MW) / 발전 용량: 750 MW (750 메가와트)
+Country / 국가: Republic of Korea (대한민국)
+Owner / 소유자: River Utilities (리버 유틸리티즈)
+Latitude / 위도: 37.5407
+Longitude / 경도: 127.135
+Data Source URL / 데이터 소스 URL: https://example.com/riverbend
+Source Year / 데이터 연도: 2024
+Annual Generation (GWh) / 연간 발전량: 4200 GWh (4200 기가와트시)
+Employee Name / 직원 이름: Jane Smith (제인 스미스)
+Employee ID / 직원 ID: E002
+Email / 이메일: jsmith@riverutilities.com
+Phone / 전화번호: 555-234-5678
+SSN / 식별번호: 234-56-7890
+Salary / 연봉: 88000 USD (88,000 달러)
+
+Record 3 / 기록 3
+Plant Name / 발전소 이름: Highland Energy Plant (하이랜드 에너지 발전소)
+Fuel Type / 연료 종류: Solar (태양열)
+Generation Capacity (MW) / 발전 용량: 200 MW (200 메가와트)
+Country / 국가: Republic of Korea (대한민국)
+Owner / 소유자: Highland Renewables (하이랜드 재생에너지 회사)
+Latitude / 위도: 35.8714
+Longitude / 경도: 127.0002
+Data Source URL / 데이터 소스 URL: https://example.com/highland
+Source Year / 데이터 연도: 2026
+Annual Generation (GWh) / 연간 발전량: 1500 GWh (1500 기가와트시)
+Employee Name / 직원 이름: Michael Brown (마이클 브라운)
+Employee ID / 직원 ID: E003
+Email / 이메일: mbrown@highlandrenew.com
+Phone / 전화번호: 555-345-6789
+SSN / 식별번호: 345-67-8901
+Salary / 연봉: 78000 USD (78,000 달러)
+
+Record 4 / 기록 4
+Plant Name / 발전소 이름: Ocean View Power Station (오션 뷰 발전소)
+Fuel Type / 연료 종류: Wind (풍력)
+Generation Capacity (MW) / 발전 용량: 150 MW (150 메가와트)
+Country / 국가: Republic of Korea (대한민국)
+Owner / 소유자: Oceanic Power Ltd (오션 파워 회사)
+Latitude / 위도: 34.9778
+Longitude / 경도: 127.6591
+Data Source URL / 데이터 소스 URL: https://example.com/oceanview
+Source Year / 데이터 연도: 2023
+Annual Generation (GWh) / 연간 발전량: 800 GWh (800 기가와트시)
+Employee Name / 직원 이름: Emily Davis (에밀리 데이비스)
+Employee ID / 직원 ID: E004
+Email / 이메일: edavis@oceanpower.com
+Phone / 전화번호: 555-456-7890
+SSN / 식별번호: 456-78-9012
+Salary / 연봉: 72000 USD (72,000 달러)
+
+Record 5 / 기록 5
+Plant Name / 발전소 이름: Prairie Wind Farm (프레리 풍력 발전소)
+Fuel Type / 연료 종류: Wind (풍력)
+Generation Capacity (MW) / 발전 용량: 300 MW (300 메가와트)
+Country / 국가: Republic of Korea (대한민국)
+Owner / 소유자: Prairie Wind LLC (프레리 윈드 회사)
+Latitude / 위도: 36.3287
+Longitude / 경도: 126.9386
+Data Source URL / 데이터 소스 URL: https://example.com/prairie
+Source Year / 데이터 연도: 2025
+Annual Generation (GWh) / 연간 발전량: 1200 GWh (1200 기가와트시)
+Employee Name / 직원 이름: Richard Lee (리차드 리)
+Employee ID / 직원 ID: E005
+Email / 이메일: rlee@prairiewind.com
+Phone / 전화번호: 555-567-8901
+SSN / 식별번호: 567-89-0123
+Salary / 연봉: 81000 USD (81,000 달러)
+

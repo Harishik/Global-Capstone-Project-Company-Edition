@@ -1,0 +1,35 @@
+{
+  "documents": [
+    {
+      "id": "4556a9e6be02b0b8",
+      "filename": "dataset_vietnamese.csv",
+      "size": 213,
+      "chunks": 1,
+      "ingestedAt": "2026-02-01T18:48:00.799774",
+      "status": "ready",
+      "security_level": "PUBLIC",
+      "source": null
+    },
+    {
+      "id": "055d8d8e64394fbf",
+      "filename": "dataset_hybrid_bilingual_sensitive.csv",
+      "size": 379,
+      "chunks": 1,
+      "ingestedAt": "2026-02-01T18:48:13.205477",
+      "status": "ready",
+      "security_level": "PUBLIC",
+      "source": null
+    },
+    {
+      "id": "77746f63539227b6",
+      "filename": "dataset_english_nonsensitive.csv",
+      "size": 191,
+      "chunks": 1,
+      "ingestedAt": "2026-02-01T18:48:23.573303",
+      "status": "ready",
+      "security_level": "PUBLIC",
+      "source": null
+    }
+  ],
+  "last_updated": "2026-02-01T18:52:36.258087"
+}

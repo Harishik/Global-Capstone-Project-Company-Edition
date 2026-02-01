@@ -1,0 +1,222 @@
+{
+  "datasets": {
+    "opsd": {
+      "name": "Open Power System Data (OPSD)",
+      "description": "European power system data - generation capacity, power plants, time series",
+      "source_url": "https://data.open-power-system-data.org/time_series/2020-10-06/time_series_60min_singleindex.csv",
+      "files": [
+        {
+          "name": "time_series_60min.csv",
+          "success": true,
+          "checksum": "3e2598ed455f85e1df970998a8552d59",
+          "size": 130339665
+        },
+        {
+          "name": "conventional_power_plants_EU.csv",
+          "success": true,
+          "checksum": "09cc5cc5c92d01f538c630087d4b83ec",
+          "size": 1257718
+        },
+        {
+          "name": "renewable_power_plants_EU.csv",
+          "success": true,
+          "checksum": "f8e0e228e14614f6e36d177c3dadf882",
+          "size": 265825487
+        }
+      ],
+      "last_downloaded": "2026-02-01T12:57:31.600080",
+      "version": "1.0",
+      "auto_update": true,
+      "update_frequency_days": 30
+    },
+    "ornl": {
+      "name": "Oak Ridge National Laboratory - Power & Grid",
+      "description": "US national lab data on power grids and critical infrastructure",
+      "source_url": "https://www.ornl.gov/data",
+      "files": [],
+      "last_downloaded": null,
+      "version": null,
+      "auto_update": false,
+      "update_frequency_days": 90
+    },
+    "nrel": {
+      "name": "DOE / NREL Open Reports",
+      "description": "National Renewable Energy Laboratory - solar, wind, grid data",
+      "source_url": "https://developer.nrel.gov/docs/solar/nsrdb/",
+      "files": [
+        {
+          "name": "solar_resource_data_sample.csv",
+          "success": false,
+          "message": "Requires API key"
+        }
+      ],
+      "last_downloaded": "2026-02-01T13:05:49.549391",
+      "version": "1.0",
+      "auto_update": true,
+      "update_frequency_days": 30
+    },
+    "nab": {
+      "name": "Numenta Anomaly Benchmark (NAB)",
+      "description": "58 labeled time series for anomaly detection",
+      "source_url": "https://raw.githubusercontent.com/numenta/NAB/master/data/realAWSCloudwatch/",
+      "files": [
+        {
+          "name": "realAWSCloudwatch/ec2_cpu_utilization_24ae8d.csv",
+          "success": true,
+          "checksum": "670f5fea6e97b1725fdfc1d7ea8c5249",
+          "size": 105367
+        },
+        {
+          "name": "realAWSCloudwatch/ec2_cpu_utilization_53ea38.csv",
+          "success": true,
+          "checksum": "2ccb238a824fe1a0d5ba40edd8bd7258",
+          "size": 116041
+        },
+        {
+          "name": "realAWSCloudwatch/ec2_cpu_utilization_5f5533.csv",
+          "success": true,
+          "checksum": "852c8473584b2bb4b34a2cc107b55eda",
+          "size": 119229
+        },
+        {
+          "name": "realAWSCloudwatch/ec2_cpu_utilization_77c1ca.csv",
+          "success": true,
+          "checksum": "e9259ab08445b0584eaf7169f744c4b0",
+          "size": 106007
+        },
+        {
+          "name": "realAWSCloudwatch/ec2_cpu_utilization_825cc2.csv",
+          "success": true,
+          "checksum": "85ed1cc00d26de5c921a0af2c6019a5b",
+          "size": 113675
+        },
+        {
+          "name": "realAWSCloudwatch/ec2_cpu_utilization_ac20cd.csv",
+          "success": true,
+          "checksum": "14a0e0d6b9d46a2dbdcfac9464336c02",
+          "size": 116980
+        },
+        {
+          "name": "realAWSCloudwatch/ec2_cpu_utilization_c6585a.csv",
+          "success": true,
+          "checksum": "fb19d87d3e38a725da145681a86ff442",
+          "size": 104962
+        },
+        {
+          "name": "realAWSCloudwatch/ec2_cpu_utilization_fe7f93.csv",
+          "success": true,
+          "checksum": "5211650f0dfd20bf8f1304ba46c37e0f",
+          "size": 115788
+        },
+        {
+          "name": "realAWSCloudwatch/ec2_disk_write_bytes_1ef3de.csv",
+          "success": true,
+          "checksum": "be2a8194a63fee9db0a0fff5a13595ae",
+          "size": 116626
+        },
+        {
+          "name": "realAWSCloudwatch/ec2_disk_write_bytes_c0d644.csv",
+          "success": true,
+          "checksum": "c96f95d28c564d050179954973d7c3c2",
+          "size": 101626
+        },
+        {
+          "name": "realAWSCloudwatch/ec2_network_in_257a54.csv",
+          "success": true,
+          "checksum": "82ac6c4d6279d402465f18ea5a182ec1",
+          "size": 117236
+        },
+        {
+          "name": "realAWSCloudwatch/ec2_network_in_5abac7.csv",
+          "success": true,
+          "checksum": "d7c530dccbef98bc4c9cabee966e5eea",
+          "size": 120827
+        },
+        {
+          "name": "realAWSCloudwatch/elb_request_count_8c0756.csv",
+          "success": true,
+          "checksum": "f8cadcb1b5622b7087b86a6f299b5b7c",
+          "size": 101052
+        },
+        {
+          "name": "realAWSCloudwatch/grok_asg_anomaly.csv",
+          "success": true,
+          "checksum": "bc88304f35513e99d592bdec3663104c",
+          "size": 131065
+        },
+        {
+          "name": "realAWSCloudwatch/iio_us-east-1_i-a2eb1cd9_NetworkIn.csv",
+          "success": true,
+          "checksum": "06483b7cc2be2078ca4bc9c88192a828",
+          "size": 37339
+        },
+        {
+          "name": "realAWSCloudwatch/rds_cpu_utilization_cc0c53.csv",
+          "success": true,
+          "checksum": "e1498abcc54c6564e81d26c47c837365",
+          "size": 117806
+        },
+        {
+          "name": "realAWSCloudwatch/rds_cpu_utilization_e47b3b.csv",
+          "success": true,
+          "checksum": "e2a7925707f7296a884190070d43ee0d",
+          "size": 113599
+        },
+        {
+          "name": "realTraffic/occupancy_6005.csv",
+          "success": true,
+          "checksum": "3c93a137d33b00fc15de5cd16c83628f",
+          "size": 59122
+        },
+        {
+          "name": "realTraffic/occupancy_t4013.csv",
+          "success": true,
+          "checksum": "0d23e04a73b439cb3394c4d132ec2697",
+          "size": 62609
+        },
+        {
+          "name": "realTraffic/speed_6005.csv",
+          "success": true,
+          "checksum": "350969d1826a25aa8fc606398f0d66e0",
+          "size": 57538
+        },
+        {
+          "name": "realTraffic/speed_7578.csv",
+          "success": true,
+          "checksum": "3fe21df810be6b31520d83b6f889d8b5",
+          "size": 25928
+        },
+        {
+          "name": "realTraffic/speed_t4013.csv",
+          "success": true,
+          "checksum": "385199e156951a63d87c7d839eee2224",
+          "size": 57400
+        },
+        {
+          "name": "realTraffic/TravelTime_387.csv",
+          "success": true,
+          "checksum": "d0af3020e4e15cbe840a2cafbb5750df",
+          "size": 59846
+        },
+        {
+          "name": "realTraffic/TravelTime_451.csv",
+          "success": true,
+          "checksum": "cef6762eb4b297399e04fe16a325fa78",
+          "size": 51918
+        }
+      ],
+      "last_downloaded": "2026-02-01T12:57:40.455515",
+      "version": "1.0",
+      "auto_update": false,
+      "update_frequency_days": 365
+    }
+  },
+  "ingestion_status": {
+    "total_files": 0,
+    "ingested_files": 0,
+    "failed_files": 0,
+    "last_ingestion": null,
+    "is_complete": false
+  },
+  "last_updated": "2026-02-01T13:05:49.549391"
+}

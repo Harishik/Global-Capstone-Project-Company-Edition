@@ -1,0 +1,56 @@
+# Intellecta RAG Backend - Requirements
+# Qdrant + Qwen3-VL + LLaMA 3.2 Architecture
+
+# ===== Core Framework =====
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# ===== Vector Database =====
+qdrant-client==1.7.0
+
+# ===== PostgreSQL Database =====
+asyncpg>=0.29.0          # PostgreSQL async driver
+
+# ===== AI/ML Models =====
+torch>=2.1.0
+transformers>=4.37.0
+sentence-transformers>=2.2.2
+accelerate>=0.25.0
+safetensors>=0.4.1
+
+# ===== Document Processing =====
+PyMuPDF==1.23.8          # PDF parsing (fitz)
+python-docx==1.1.0       # DOCX parsing
+openpyxl==3.1.2          # Excel parsing
+pandas>=2.1.0            # CSV/data processing
+xlrd==2.0.1              # Legacy Excel support
+
+# ===== Text Processing =====
+tiktoken>=0.5.2          # Token counting
+nltk>=3.8.1              # NLP utilities
+langdetect>=1.0.9        # Language detection
+
+# ===== HTTP & Async =====
+httpx>=0.26.0            # Async HTTP client (for Ollama)
+aiofiles>=23.2.1         # Async file operations
+requests>=2.31.0         # Sync HTTP client
+
+# ===== Utilities =====
+python-dotenv>=1.0.0     # Environment variables
+tqdm>=4.66.1             # Progress bars
+colorama>=0.4.6          # Colored terminal output
+tenacity>=8.2.3          # Retry logic
+
+# ===== Data Validation =====
+email-validator>=2.1.0   # Email validation for security patterns
+phonenumbers>=8.13.0     # Phone number detection
+
+# ===== Scheduling =====
+apscheduler>=3.10.4      # Background task scheduling
+
+# ===== Development =====
+python-jose[cryptography]>=3.3.0  # JWT (future auth)
+passlib[bcrypt]>=1.7.4            # Password hashing (future auth)

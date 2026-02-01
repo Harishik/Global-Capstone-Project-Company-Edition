@@ -1,0 +1,141 @@
+{
+  "metrics": [
+    {
+      "timestamp": "2026-02-01T19:08:11.699763",
+      "accuracy": 90.9,
+      "precision": 95.5,
+      "efficiency": 89.5,
+      "throughput": 93.2,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T19:07:20.248797",
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "efficiency": 0.0,
+      "throughput": 0.0,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T19:02:59.743037",
+      "accuracy": 86.5,
+      "precision": 91.0,
+      "efficiency": 77.5,
+      "throughput": 90.3,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T19:02:54.206856",
+      "accuracy": 90.9,
+      "precision": 95.5,
+      "efficiency": 42.0,
+      "throughput": 90.6,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T19:01:46.643872",
+      "accuracy": 90.9,
+      "precision": 95.5,
+      "efficiency": 91.2,
+      "throughput": 93.8,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T18:56:11.591713",
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "efficiency": 0.0,
+      "throughput": 0.0,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T18:55:07.454307",
+      "accuracy": 86.8,
+      "precision": 91.0,
+      "efficiency": 96.7,
+      "throughput": 98.2,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T18:51:59.091995",
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "efficiency": 0.0,
+      "throughput": 0.0,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T18:49:47.349543",
+      "accuracy": 86.8,
+      "precision": 91.0,
+      "efficiency": 96.2,
+      "throughput": 97.0,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T18:49:37.281659",
+      "accuracy": 86.8,
+      "precision": 91.0,
+      "efficiency": 96.7,
+      "throughput": 98.1,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T18:49:03.032234",
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "efficiency": 0.0,
+      "throughput": 0.0,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T18:41:05.151891",
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "efficiency": 0.0,
+      "throughput": 0.0,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T18:23:30.932143",
+      "accuracy": 86.9,
+      "precision": 91.0,
+      "efficiency": 96.4,
+      "throughput": 93.7,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T18:22:10.423403",
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "efficiency": 0.0,
+      "throughput": 0.0,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T16:54:21.735354",
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "efficiency": 0.0,
+      "throughput": 0.0,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T16:39:00.842181",
+      "accuracy": 87.4,
+      "precision": 91.0,
+      "efficiency": 0.0,
+      "throughput": 90.1,
+      "query_count": 1
+    },
+    {
+      "timestamp": "2026-02-01T16:26:07.362290",
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "efficiency": 0.0,
+      "throughput": 0.0,
+      "query_count": 1
+    }
+  ],
+  "last_updated": "2026-02-01T19:08:11.699763"
+}
