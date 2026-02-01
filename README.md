@@ -371,7 +371,7 @@ curl -X POST http://localhost:8000/query \
         <b>chinimini532</b>
       </a>
       <br />
-      <sub>Collaborator</sub>
+      <sub>Co-Lead</sub>
     </td>
   </tr>
 </table>
